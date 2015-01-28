@@ -25,6 +25,6 @@ class CalculateGCD
         Console.WriteLine("Enter b:");
         int b = int.Parse(Console.ReadLine());
         Console.WriteLine("GCD(a,b) is : {0}",Gcd(a,b));
-        //haide de 
+        
     }
 }
